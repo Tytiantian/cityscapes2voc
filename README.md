@@ -3,6 +3,8 @@ Convert the cityscapes dataset to voc format according to the category you want.
 
 Very little sample data is provided for testing.
 
+You only need to modify the path and the path and the required category to do the format conversion you need.
+
 json_to_dataset.py from the project：https://github.com/bubbliiiing/deeplabv3-plus-pytorch
 
 cityscapes data set official site processing script project：https://github.com/mcordts/cityscapesScripts
